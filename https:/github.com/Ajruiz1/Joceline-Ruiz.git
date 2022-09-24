@@ -1,0 +1,25 @@
+{
+  "id": "EV95c3708f9112412a834cc8d415470cd8",
+  "object": "event",
+  "apiVersion": "v2",
+  "createdAt": "2022-01-23T17:07:51.454Z",
+  "type": "call.ringing",
+  "data": {
+    "object": {
+      "id": "ACbaee66e137f0467dbed5ad4bc8d60800",
+      "object": "call",
+      "from": "+18005550100",
+      "to": "+18885550101",
+      "direction": "incoming",
+      "media": [],
+      "voicemail": null,
+      "status": "ringing",
+      "createdAt": "2022-01-23T17:07:51.116Z",
+      "answeredAt": null,
+      "completedAt": null,
+      "userId": "USu5AsEHuQ",
+      "phoneNumberId": "PNtoDbDhuz",
+      "conversationId": "CN78ba0373683c48fd8fd96bc836c51f79"
+    }
+  }
+}
